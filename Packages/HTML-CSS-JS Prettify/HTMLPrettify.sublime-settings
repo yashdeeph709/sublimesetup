@@ -3,7 +3,7 @@
   // https://github.com/victorporof/Sublime-HTMLPrettify#oh-noez-command-not-found
   // http://nodejs.org/#download
   "node_path": {
-    "windows": "C:\\Program Files\\nodejs\\node.exe"
+    "windows": "C:/Program Files/nodejs/node.exe"
   },
 
   // Automatically format when a file is saved.
