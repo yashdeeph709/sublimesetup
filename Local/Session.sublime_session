@@ -1018,6 +1018,22 @@
 				"selected_items":
 				[
 					[
+						"T",
+						"TimeSheetApp"
+					],
+					[
+						"$stte",
+						"$stateParams	(?)"
+					],
+					[
+						"$state",
+						"$stateParams	(?)"
+					],
+					[
+						"bs3",
+						"bs3-alert	bs3-alert"
+					],
+					[
 						"bs3-form",
 						"bs3-form	bs3-form"
 					],
@@ -1266,19 +1282,11 @@
 			"buffers":
 			[
 				{
-					"file": "/D/repo_timesheet/app/components/project/projectView.html",
+					"file": "/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 2909,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/repo_timesheet/app/components/project/projectController.js",
-					"settings":
-					{
-						"buffer_size": 671,
-						"line_ending": "Windows"
+						"buffer_size": 1341,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -1289,10 +1297,30 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 348.0,
-				"last_filter": "",
+				"height": 185.0,
+				"last_filter": "git status",
 				"selected_items":
 				[
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: <var>"
+					],
 					[
 						"inst",
 						"Package Control: Install Package"
@@ -1322,10 +1350,6 @@
 						"Git: Pull"
 					],
 					[
-						"git status",
-						"Git: Status"
-					],
-					[
 						"git checkout ",
 						"Git: Checkout"
 					],
@@ -1336,10 +1360,6 @@
 					[
 						"remove",
 						"Package Control: Remove Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
 					],
 					[
 						"git stat",
@@ -1406,15 +1426,11 @@
 						"HTMLPrettify: Set `node` Path"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"pack",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 454.0
+				"width": 494.0
 			},
 			"console":
 			{
@@ -1441,34 +1457,40 @@
 			],
 			"file_history":
 			[
-				"/D/repo_timesheet/app/components/addtask/addTaskView.html",
-				"/D/repo_timesheet/app/app.module.js",
-				"/D/repo_timesheet/index.html",
-				"/D/repo_timesheet/app/components/editproject/editProjectController.js",
-				"/D/repo_timesheet/app/components/project/projectView.html",
-				"/D/repo_timesheet/app/components/project/projectController.js",
-				"/D/repo_timesheet/app/components/editproject/editProjectView.html",
+				"/D/repo_timesheet/app/components/adduser/addUserView.html",
 				"/D/repo_timesheet/app/components/addproject/addProjectController.js",
 				"/D/repo_timesheet/app/components/addproject/addProjectView.html",
-				"/D/repo_timesheet/app/components/profile/profileView.html",
-				"/D/repo_timesheet/app/components/home/homeController.js",
-				"/D/repo_timesheet/app/components/profile/profileController.js",
+				"/D/repo_timesheet/app/components/project/projectController.js",
+				"/D/repo_timesheet/app/components/editproject/editProjectController.js",
+				"/D/repo_timesheet/app/components/editproject/editProjectView.html",
+				"/D/repo_timesheet/app/components/project/projectView.html",
+				"/D/repo_timesheet/app/shared/navigation/navigation.html",
+				"/D/repo_timesheet/app/shared/navigation/navigationAdmin.html",
+				"/D/repo_timesheet/app/components/addtask/addTaskController.js",
+				"/D/repo_timesheet/app/components/addactivity/addActivityController.js",
 				"/D/repo_timesheet/app/app.routes.js",
+				"/D/repo_timesheet/app/app.module.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/repo_timesheet/app/components/addactivity/addActivityView.html",
+				"/D/repo_timesheet/index.html",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Material Theme - Appbar/src/components/tabs.js",
+				"/D/repo_timesheet/app/components/addtask/addTaskView.html",
+				"/D/repo_timesheet/app/components/home/homeController.js",
+				"/D/repo_timesheet/app/components/profile/profileView.html",
+				"/D/repo_timesheet/app/components/profile/profileController.js",
 				"/D/repo_timesheet/app/components/user/userController.js",
 				"/D/repo_timesheet/app/components/user/userView.html",
 				"/D/repo_timesheet/app/components/home/homeView.html",
 				"/D/repo_timesheet/assets/css/index.css",
 				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
 				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/subangular.sublime-build",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/D/repo_timesheet/app/components/task/taskView.html",
 				"/D/repo_timesheet/app/components/task/taskController.js",
 				"/D/repo_timesheet/app/components/task/taskService.js",
-				"/D/repo_timesheet/app/shared/navigation/navigationAdmin.html",
 				"/D/repo_timesheet/app/shared/navigation/navigationController.js",
 				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 				"/D/repo_timesheet/app/shared/navigation/navigationSubAdmin.html",
-				"/D/repo_timesheet/app/shared/navigation/navigation.html",
 				"/D/repo_timesheet/app/components/timesheet/timesheet.html",
 				"/D/repo_timesheet/home.html",
 				"/D/repo_timesheet/assets/css/bootstrap.css",
@@ -1562,17 +1584,11 @@
 				"/C/Users/hinge_y/Desktop/JavaDocs.bat",
 				"/D/java_traning/Chatapplication/WebContent/index.jsp",
 				"/D/assignments/old j2ee/vChatJSTLEL/WebContent/join.jsp",
-				"/C/Users/hinge_y/Desktop/SimpleThread.java",
-				"/C/Users/hinge_y/Desktop/docs/api/AlwaysUp.bat",
-				"/D/Freshers_Training/docs/server.bat",
-				"/C/Users/hinge_y/Desktop/RedisClient.java",
-				"/C/Users/hinge_y/Desktop/RedisServer.java",
-				"/C/Users/hinge_y/Desktop/RedisJava.java",
-				"/D/angular2-quickstart/app.js"
+				"/C/Users/hinge_y/Desktop/SimpleThread.java"
 			],
 			"find":
 			{
-				"height": 73.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -1583,9 +1599,29 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"id",
+					"Id",
+					"id",
+					"required>",
+					"start",
+					"projectName",
+					"date",
+					"Date",
+					"date",
+					"task",
+					"Task",
+					"task",
+					"Task",
+					"task",
+					"Task",
+					"task",
+					"Task",
+					"modal",
+					"login",
+					"project",
 					" type=\"text/javascript\"",
 					"console",
 					"$stateParams",
@@ -1693,27 +1729,7 @@
 					"#/",
 					".png\">",
 					"ref=\"/",
-					"action",
-					"modal",
-					"5",
-					"rate(",
-					"stars",
-					"rating",
-					"e,",
-					"e",
-					"<span>",
-					"rating",
-					"col4",
-					"b6",
-					"movies",
-					"description",
-					"movie",
-					"text",
-					"CON",
-					"login",
-					"star(",
-					"ic_star_border_black_24dp_2x",
-					"getElementsByTagName"
+					"action"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1738,64 +1754,33 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/repo_timesheet/app/components/project/projectView.html",
+							"file": "/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2909,
+								"buffer_size": 1341,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2255,
-										2255
+										426,
+										426
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1191.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/repo_timesheet/app/components/project/projectController.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 671,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										536,
-										536
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 155.0,
+								"translation.y": 420.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1806,11 +1791,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 31.0
+				"height": 73.0
 			},
 			"layout":
 			{
@@ -1837,7 +1822,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 168.0
+				"height": 146.0
 			},
 			"output.find_results":
 			{
@@ -1856,11 +1841,11 @@
 				"height": 204.0
 			},
 			"pinned_build_system": "Packages/User/subangular.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,592,69,66,717",
+			"position": "0,2,3,-1,-1,-1,-1,592,69,66,717",
 			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1870,6 +1855,102 @@
 				"selected_items":
 				[
 					[
+						"addu",
+						"app\\components\\adduser\\addUserView.html"
+					],
+					[
+						"addpco",
+						"app\\components\\addproject\\addProjectController.js"
+					],
+					[
+						"projc",
+						"app\\components\\project\\projectController.js"
+					],
+					[
+						"addp",
+						"app\\components\\addproject\\addProjectView.html"
+					],
+					[
+						"edit",
+						"app\\components\\editproject\\editProjectController.js"
+					],
+					[
+						"proj",
+						"app\\components\\project\\projectView.html"
+					],
+					[
+						"nav",
+						"app\\shared\\navigation\\navigationAdmin.html"
+					],
+					[
+						"proje",
+						"app\\components\\project\\projectView.html"
+					],
+					[
+						"route",
+						"app\\app.routes.js"
+					],
+					[
+						"acti",
+						"app\\components\\addactivity\\addActivityController.js"
+					],
+					[
+						"task",
+						"app\\components\\addtask\\addTaskController.js"
+					],
+					[
+						"projec",
+						"app\\components\\project\\projectView.html"
+					],
+					[
+						"modu",
+						"app\\app.module.js"
+					],
+					[
+						"in",
+						"index.html"
+					],
+					[
+						"app.mo",
+						"app\\app.module.js"
+					],
+					[
+						"addac",
+						"app\\components\\addactivity\\addActivityController.js"
+					],
+					[
+						"app.route",
+						"app\\app.routes.js"
+					],
+					[
+						"app.ro",
+						"app\\app.routes.js"
+					],
+					[
+						"addta",
+						"app\\components\\addtask\\addTaskView.html"
+					],
+					[
+						"addtask",
+						"app\\components\\addtask\\addTaskController.js"
+					],
+					[
+						"app.rout",
+						"app\\app.routes.js"
+					],
+					[
+						"addt",
+						"app\\components\\addtask\\addTaskView.html"
+					],
+					[
+						"app",
+						"app\\app.module.js"
+					],
+					[
+						"cont",
+						"app\\components\\home\\homeController.js"
+					],
+					[
 						"addtas",
 						"app\\components\\addtask\\addTaskView.html"
 					],
@@ -1878,36 +1959,12 @@
 						"app\\components\\project\\projectController.js"
 					],
 					[
-						"projec",
-						"app\\components\\project\\projectView.html"
-					],
-					[
-						"in",
-						"index.html"
-					],
-					[
-						"app",
-						"app\\app.module.js"
-					],
-					[
-						"edit",
-						"app\\components\\editproject\\editProjectController.js"
-					],
-					[
 						"projv",
 						"app\\components\\project\\projectView.html"
 					],
 					[
-						"proj",
-						"app\\components\\project\\projectController.js"
-					],
-					[
 						"addproj",
 						"app\\components\\addproject\\addProjectView.html"
-					],
-					[
-						"addp",
-						"app\\components\\addproject\\addProjectController.js"
 					],
 					[
 						"create",
@@ -1920,14 +1977,6 @@
 					[
 						"addpro",
 						"app\\components\\addproject\\addProjectController.js"
-					],
-					[
-						"proje",
-						"app\\components\\project\\projectView.html"
-					],
-					[
-						"app.rout",
-						"app\\app.routes.js"
 					],
 					[
 						"add",
@@ -1966,16 +2015,8 @@
 						"app\\components\\profile\\profileView.html"
 					],
 					[
-						"route",
-						"app\\app.routes.js"
-					],
-					[
 						"index.css",
 						"assets\\css\\index.css"
-					],
-					[
-						"modu",
-						"app\\app.module.js"
 					],
 					[
 						"na",
@@ -2170,10 +2211,6 @@
 						"js\\controllers\\loginCtrl.js"
 					],
 					[
-						"nav",
-						"views\\navigation.html"
-					],
-					[
 						"update",
 						"views\\updateRoom.html"
 					],
@@ -2328,58 +2365,6 @@
 					[
 						"a",
 						"js\\app.js"
-					],
-					[
-						"ab",
-						"js\\abc.js"
-					],
-					[
-						"abc",
-						"js\\abc.js"
-					],
-					[
-						"ac",
-						"detail\\action.html"
-					],
-					[
-						"fo",
-						"css\\form.css"
-					],
-					[
-						"si",
-						"css\\signup.css"
-					],
-					[
-						"com",
-						"css\\comment.css"
-					],
-					[
-						"df",
-						"detail\\detailf.html"
-					],
-					[
-						"th",
-						"detail\\thriller.html"
-					],
-					[
-						"comm",
-						"detail\\comment.html"
-					],
-					[
-						"sig",
-						"detail\\signup.html"
-					],
-					[
-						"js",
-						"js\\abc.js"
-					],
-					[
-						"l",
-						"css\\layout.css"
-					],
-					[
-						"i15",
-						"index15.html"
 					]
 				],
 				"width": 0.0
