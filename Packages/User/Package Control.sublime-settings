@@ -26,6 +26,7 @@
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter-contrib-eslint",
-		"TernJS"
+		"TernJS",
+		"TodoReview"
 	]
 }

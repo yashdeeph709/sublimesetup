@@ -12,6 +12,12 @@
   },
 
   {
+    "class": "tabset_control",
+    "settings": ["!enable_tab_scrolling"],
+    "content_margin": [0, 0, 8, 0]
+  },
+
+  {
     "class": "tab_control",
     "layer0.tint": [0, 150, 136],
     "layer0.opacity": 1.0,
@@ -389,13 +395,13 @@
   {
     "class": "tabset_control",
     "settings": ["material_theme_accent_purple"],
-    "layer0.tint": [171, 71, 188],
+    "layer0.tint": [150, 71, 188],
   },
 
   {
     "class": "tab_control",
     "settings": ["material_theme_accent_purple"],
-    "layer0.tint": [171, 71, 188],
+    "layer0.tint": [150, 71, 188],
     "layer1.texture": "Material Theme - Appbar/assets/purple/tab_current.png",
     "layer3.texture": {
             "keyframes":
