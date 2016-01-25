@@ -1,0 +1,30 @@
+{
+    "debug" : false,
+
+    "run_on_load" : false,
+    "run_on_save" : true,
+
+    "error_messages_show_count" : true,
+    "error_messages_show_first" : true,
+
+    "extensions" : [".js"],
+    "jshintrc" : "",
+
+    "show_dot" : true,
+    "show_outline" : true,
+
+    "paths" : {
+        "osx" : {
+            "jshint_path" : "/usr/local/bin/jshint",
+            "node_path" : "/usr/local/bin/node"
+        },
+        "windows" : {
+            "jshint_path" : "C:\\Users\\hinge_y\\AppData\\Roaming\\npm\\jshint.cmd",
+            "node_path" : null
+        },
+        "linux" : {
+            "jshint_path" : "/usr/bin/jshint",
+            "node_path" : "/usr/bin/node"
+        }
+    }
+}

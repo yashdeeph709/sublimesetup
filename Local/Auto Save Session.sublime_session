@@ -2,6 +2,7 @@
 	"folder_history":
 	[
 		"/D/repo_timesheet",
+		"/D/unittestingwithangularjs",
 		"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp",
 		"/D/eclipse",
 		"/C/Users/hinge_y/Desktop/webapp",
@@ -32,7 +33,7 @@
 		"/C/Users/hinge_y/Desktop/assignment1"
 	],
 	"last_version": 3083,
-	"last_window_id": 32,
+	"last_window_id": 41,
 	"log_indexing": false,
 	"settings":
 	{
@@ -44,986 +45,96 @@
 				"selected_items":
 				[
 					[
-						"locat",
-						"localStorage"
+						"ex",
+						"expected	[]"
 					],
 					[
-						"$root",
-						"$rootScope	AngularJS(DI)"
+						"uti",
+						"utilityService"
 					],
 					[
-						"lo",
-						"logout"
+						"U",
+						"UtilityFactory	{}"
 					],
 					[
-						"i",
-						"ife	if … else"
-					],
-					[
-						"iv",
-						"ivBytes"
-					],
-					[
-						"bs",
-						"bs3-navbar	bs3-navbar"
-					],
-					[
-						"get",
-						"getItem"
-					],
-					[
-						"sty",
-						"style	Attr"
-					],
-					[
-						"loc",
-						"localStorage"
-					],
-					[
-						"in",
-						"inherit"
-					],
-					[
-						"mov",
-						"moviesdb	[]"
-					],
-					[
-						"cata",
-						"catagory"
-					],
-					[
-						"mo",
-						"moviesdb	[]"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"pas",
-						"passwordinc	(bool)"
-					],
-					[
-						"user",
-						"userdoesnt	(bool)"
-					],
-					[
-						"pa",
-						"passwordinc	(bool)"
-					],
-					[
-						"va",
-						"value	Attr"
-					],
-					[
-						"Star",
-						"Star-Full"
-					],
-					[
-						"St",
-						"Star-Full"
-					],
-					[
-						"margi",
-						"margin-left"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"cur",
-						"cursor"
-					],
-					[
-						"margin",
-						"margin-top"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"mar",
-						"margin-top"
-					],
-					[
-						"v",
-						"value"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"onmou",
-						"onmouseover	Attr"
-					],
-					[
-						"style",
-						"style	Attr"
-					],
-					[
-						"le",
-						"length"
-					],
-					[
-						"onc",
-						"onclick	Attr"
-					],
-					[
-						"disl",
-						"display"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"z",
-						"z-index"
-					],
-					[
-						"re",
-						"relative"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"ce",
-						"center"
-					],
-					[
-						"abs",
-						"absolute"
-					],
-					[
-						"fl",
-						"float"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"rgb",
-						"rgba()"
-					],
-					[
-						"list",
-						"list-style"
-					],
-					[
-						"h",
-						"h5	Tag"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"set html",
-						"Set Syntax: HTML"
-					],
-					[
-						"cancel",
-						"Build: Cancel"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"build",
-						"Build: Cancel"
-					],
-					[
-						"buil",
-						"Build: Cancel"
-					],
-					[
-						"h",
-						"HTMLBeautify"
-					],
-					[
-						"preti",
-						"HTMLPrettify"
-					],
-					[
-						"ter",
-						"TernJS: Jump to definition"
-					],
-					[
-						"INSTA",
-						"Package Control: Install Package"
-					],
-					[
-						"ht",
-						"HTMLBeautify"
-					],
-					[
-						"",
-						"Autoprefix CSS"
-					],
-					[
-						"pretif",
-						"HTMLPrettify: Set Keyboard Shortcuts"
-					],
-					[
-						"pretify",
-						"HTMLPrettify: Set `node` Path"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 512.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Users/hinge_y/Desktop/TestData.bat",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/viewRoom.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/viewRoomCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/displayUsers.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/login.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/displayUserCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/index.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/loginCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/createUser.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/createUser.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/bower_components/angular-toaster/toaster.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/bower_components/angular/angular.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/mainCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/app.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/roomersClient.bat",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/createRoom.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/profileAdmin.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/start.bat",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/navigation.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/router.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/createRoom.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/tests/Test.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/tests/app.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/tests/spec.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/updateRoom.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/adminProfileCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/css/app.css",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/toster.txt",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/services/interceptor.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/updateRoom.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/profile.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/carousel.html",
-				"/D/Angular-Roomers-Seed/index.html",
-				"/D/Angular-Roomers-Seed/js/app.js",
-				"/C/Users/hinge_y/Desktop/MainClass.java",
-				"//shruti-u/Common Things/Room management/createUser.js",
-				"/C/Users/hinge_y/git/roomers/UserCollection.json",
-				"//shruti-u/Common Things/Room management/createUser.html",
-				"/D/angular-roomers-seed/views/displayusers.html",
-				"/D/angular-roomers-seed/views/home.html",
-				"/D/angular-roomers-seed/index.html",
-				"/D/angular-roomers-seed/js/controllers/displayUserCtrl.js",
-				"/D/angular-roomers-seed/js/app.js",
-				"/D/angular-roomers-seed/js/router.js",
-				"/D/angular-roomers-seed/Conventions for angularJS",
-				"/D/repo/i",
-				"/C/Users/hinge_y/Desktop/test/Abc.html",
-				"/C/Users/hinge_y/Desktop/Repo/hello.html",
-				"/C/Users/hinge_y/abc/index.html",
-				"/C/Users/hinge_y/Desktop/Repo/index.html",
-				"/C/Users/hinge_y/Desktop/Repo/i",
-				"/D/Workspace/RESTful/XoriantSurvey-AngularJS/WebContent/index.html",
-				"/C/Users/hinge_y/Desktop/abc/index.html",
-				"/C/Users/hinge_y/Desktop/abc/hello.html",
-				"/D/data_creation_script.nosql",
-				"/D/assignments/old j2ee/Servers/Tomcat v8.0 Server at localhost-config/web.xml",
-				"/D/java_traning/EmployeeTest/.classpath",
-				"/D/java_traning/EmployeeTest/.project",
-				"/C/Users/hinge_y/Desktop/JavaDocs.bat",
-				"/D/java_traning/Chatapplication/WebContent/index.jsp",
-				"/D/assignments/old j2ee/vChatJSTLEL/WebContent/join.jsp",
-				"/C/Users/hinge_y/Desktop/SimpleThread.java",
-				"/C/Users/hinge_y/Desktop/docs/api/AlwaysUp.bat",
-				"/D/Freshers_Training/docs/server.bat",
-				"/C/Users/hinge_y/Desktop/RedisClient.java",
-				"/C/Users/hinge_y/Desktop/RedisServer.java",
-				"/C/Users/hinge_y/Desktop/RedisJava.java",
-				"/D/angular2-quickstart/app.js",
-				"/C/Users/hinge_y/Desktop/data_creation_script.sql",
-				"/D/angular2-quickstart/index.html",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/C/Users/hinge_y/Desktop/moviemela on angular/js/controllers/detailController.js",
-				"/C/Users/hinge_y/Desktop/moviemela on angular/js/dataloader.js",
-				"/C/Users/hinge_y/Desktop/moviemela on angular/css/flip.css",
-				"/C/Users/hinge_y/Desktop/moviemela on angular/js/controllers/loginController.js",
-				"/C/Users/hinge_y/Desktop/moviemela on angular/js/controllers/navigationController.js",
-				"/C/Users/hinge_y/Desktop/moviemela on angular/index.html",
-				"/C/Users/hinge_y/Desktop/moviemela on angular/detail/detailf.html",
-				"/C/Users/hinge_y/Desktop/moviemela on angular/detail/catagory.html",
-				"/D/moviemela on angular/js/app.js",
-				"/D/moviemela on angular/detail/form.html",
-				"/D/moviemela on angular/index.html",
-				"/D/moviemela on angular/detail/catagory.html",
-				"/D/moviemela on angular/css/form.css",
-				"/D/moviemela on angular/css/style.css",
-				"/D/moviemela on angular/css/flip.css",
-				"/D/moviemela on angular/js/dataloader.js",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/index.html",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/js/app.js",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/ade.js",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/js/angular/app.js",
-				"/D/angularpractice/js/controllers/navcontroller.js",
-				"/D/angularpractice/js/app.js",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/css/flip.css",
-				"/D/angularpractice/css/style.css",
-				"/C/Users/hinge_y/executables/serve.bat",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/subangular.sublime-build",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/angular.sublime-build",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/start.bat",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/detail/detailf.html",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/css/style.css",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/detail/form.html",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/js/abc.js",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/js/dataloader.js",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/css/commentsection.css",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/detail/action.html",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/css/form.css",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-masterd/detail/form.html",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/css/signup.css",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-masterruchi/css/form.css",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/css/comment.css",
-				"/C/Users/hinge_y/Desktop/data.json",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/detail/signup.html",
-				"/C/Users/hinge_y/Desktop/MovieMela-YaRuNi-master/detail/thriller.html",
-				"/C/Users/hinge_y/Desktop/group/detail/detail1.html",
-				"/C/Users/hinge_y/Desktop/group/css/comment.css",
-				"/C/Users/hinge_y/Desktop/group/detail/comment.html",
-				"/C/Users/hinge_y/Desktop/group/detail/comedy.html",
-				"/C/Users/hinge_y/Desktop/group/js/abc.js",
-				"/C/Users/hinge_y/Desktop/group/index.html",
-				"/C/Users/hinge_y/Desktop/group/detail/form.html",
-				"/C/Users/hinge_y/Desktop/group/css/signup.css",
-				"/C/Users/hinge_y/Desktop/group/css/form.css",
-				"/C/Users/hinge_y/Desktop/group/detail/signup.html",
-				"/C/Users/hinge_y/Desktop/group/css/style.css",
-				"/C/Users/hinge_y/Desktop/group/detail/detail.html",
-				"/C/Users/hinge_y/Desktop/group/css/layout.css",
-				"/C/Users/hinge_y/Desktop/group/detail/detail12.html"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"text",
-					"min-length",
-					"//ajax",
-					"//cdnjs",
-					"animate",
-					"h4",
-					"<br>\n",
-					"<br>",
-					"profile",
-					"Room",
-					"roomCity",
-					"comments",
-					"lastname",
-					"firstname",
-					"console",
-					"id",
-					"#/",
-					".png\">",
-					"ref=\"/",
-					"action",
-					"modal",
-					"5",
-					"rate(",
-					"stars",
-					"rating",
-					"e,",
-					"e",
-					"<span>",
-					"rating",
-					"col4",
-					"b6",
-					"movies",
-					"description",
-					"movie",
-					"text",
-					"CON",
-					"login",
-					"star(",
-					"ic_star_border_black_24dp_2x",
-					"getElementsByTagName",
-					"ic_star_border_24dp_2x",
-					"black",
-					"<img",
-					"class",
-					"50px",
-					"onclick=\"click()\"",
-					"on",
-					"><",
-					"length",
-					"alphabet",
-					"img\\",
-					"css/",
-					"img\\",
-					"index",
-					"img\\",
-					"css/",
-					";\n",
-					"card",
-					"h4",
-					"cata",
-					"h4",
-					"catagories",
-					"<h3>",
-					"</li>",
-					"<h3>",
-					"scale(1.2)",
-					"back",
-					" 0px 0px 16px 10px rgb(59, 61, 134);",
-					"transform",
-					"b1",
-					"img\\",
-					"<a href=\"detail.html\">\n					     ",
-					"<li>",
-					".jpg\">",
-					"<img src=\"img",
-					"text",
-					"\\movies\\b",
-					"b",
-					"hover",
-					"\\movies",
-					"movies\\",
-					"animate",
-					"animate ",
-					"mg:hover",
-					"animate ",
-					"animated\\",
-					"bollywood",
-					"1.3",
-					"1.5",
-					"left",
-					"<img",
-					"alt=\"\">",
-					"<img",
-					"D:\\ruchi\\",
-					");\n",
-					"#ad-1",
-					"BOAT",
-					"padding",
-					"margin",
-					"wood"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 21.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 118.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "Packages/User/angular.sublime-build",
-			"replace":
-			{
-				"height": 38.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"vi",
-						"views\\viewRoom.html"
-					],
-					[
-						"view",
-						"js\\controllers\\viewRoomCtrl.js"
-					],
-					[
-						"dis",
-						"views\\displayUsers.html"
-					],
-					[
-						"logi",
-						"views\\login.html"
-					],
-					[
-						"i",
-						"index.html"
-					],
-					[
-						"createu",
-						"views\\createUser.html"
-					],
-					[
-						"create",
-						"js\\controllers\\createUser.js"
-					],
-					[
-						"lo",
-						"views\\login.html"
-					],
-					[
-						"to",
-						"bower_components\\angular-toaster\\toaster.js"
-					],
-					[
-						"toat",
-						"bower_components\\angular-toaster\\toaster.js"
-					],
-					[
-						"angu",
-						"bower_components\\angular\\angular.js"
-					],
-					[
-						"app",
-						"js\\app.js"
-					],
-					[
-						"log",
-						"js\\controllers\\loginCtrl.js"
-					],
-					[
-						"main",
-						"js\\controllers\\mainCtrl.js"
-					],
-					[
-						"mai",
-						"js\\controllers\\mainCtrl.js"
-					],
-					[
-						"pro",
-						"views\\profileAdmin.html"
-					],
-					[
-						"createhtml",
-						"views\\createRoom.html"
-					],
-					[
-						"nav",
-						"views\\navigation.html"
-					],
-					[
-						"route",
-						"js\\router.js"
-					],
-					[
-						"cre",
-						"views\\createRoom.html"
-					],
-					[
-						"vie",
-						"views\\viewRoom.html"
-					],
-					[
-						"viewroo",
-						"js\\controllers\\viewRoomCtrl.js"
-					],
-					[
-						"ad",
-						"js\\controllers\\adminProfileCtrl.js"
-					],
-					[
-						"controller",
-						"js\\controllers\\viewRoomCtrl.js"
-					],
-					[
-						"tos",
-						"js\\controllers\\toster.txt"
-					],
-					[
-						"rout",
-						"js\\router.js"
-					],
-					[
-						"toster",
-						"js\\controllers\\toster.txt"
-					],
-					[
-						"upd",
-						"js\\controllers\\updateRoom.js"
-					],
-					[
-						"n",
-						"views\\navigation.html"
-					],
-					[
-						"in",
-						"index.html"
-					],
-					[
-						"login",
-						"js\\controllers\\loginCtrl.js"
-					],
-					[
-						"co",
-						"Conventions for angularJS"
-					],
-					[
-						"redisc",
-						"RedisClient.java"
-					],
-					[
-						"de",
-						"js\\controllers\\detailController.js"
-					],
-					[
-						"cat",
-						"detail\\catagory.html"
-					],
-					[
-						"d",
-						"detail\\detailf.html"
-					],
-					[
-						"fli",
-						"css\\flip.css"
-					],
-					[
-						"ap",
-						"js\\app.js"
-					],
-					[
-						"for",
-						"detail\\form.html"
-					],
-					[
-						"fr",
-						"css\\form.css"
-					],
-					[
-						"sty",
-						"css\\style.css"
-					],
-					[
-						"st",
-						"css\\style.css"
-					],
-					[
-						"s",
-						"css\\style.css"
-					],
-					[
-						"a",
-						"js\\app.js"
-					],
-					[
-						"ab",
-						"js\\abc.js"
-					],
-					[
-						"abc",
-						"js\\abc.js"
+						"days",
+						"daysList	[]"
 					],
 					[
 						"ac",
-						"detail\\action.html"
+						"activity	(?)"
 					],
 					[
-						"fo",
-						"css\\form.css"
+						"acti",
+						"activityName"
 					],
 					[
-						"si",
-						"css\\signup.css"
+						"date",
+						"dateofday	{}"
 					],
 					[
-						"com",
-						"css\\comment.css"
+						"pro",
+						"projectId"
 					],
 					[
-						"df",
-						"detail\\detailf.html"
+						"project",
+						"projectName"
 					],
 					[
-						"dsi",
-						"detail\\signup.html"
+						"ope",
+						"opened	(?)"
 					],
 					[
-						"th",
-						"detail\\thriller.html"
+						"day",
+						"dayComparator(day1, workingHour}, day2, workingHour})"
+					],
+					[
+						"the",
+						"thedate"
+					],
+					[
+						"dat",
+						"daysListParam	(?)"
+					],
+					[
+						"list",
+						"daysList"
+					],
+					[
+						"posof",
+						"posofdate3	(?)"
 					],
 					[
 						"comm",
-						"detail\\comment.html"
+						"comm-todo	Comment - To-do list"
 					],
 					[
-						"sig",
-						"detail\\signup.html"
+						"act",
+						"activity"
 					],
 					[
-						"js",
-						"js\\abc.js"
+						"http",
+						"$httpBackend	AngularJS"
 					],
 					[
-						"l",
-						"css\\layout.css"
+						"en",
+						"encodeURIComponent(uri)"
 					],
 					[
-						"i15",
-						"index15.html"
+						"proje",
+						"projectService	{}"
 					],
 					[
-						"i2",
-						"index2.html"
+						"projectCall",
+						"projectCallbackWithNext"
 					],
 					[
-						"i4",
-						"index4.html"
-					],
-					[
-						"i3",
-						"index3.html"
-					],
-					[
-						".css",
-						"css\\style.css"
-					],
-					[
-						"g",
-						"css\\gallary.css"
-					],
-					[
-						"dock",
-						"css\\dock.css"
-					],
-					[
-						"doc",
-						"css\\dock.css"
-					],
-					[
-						"lay",
-						"css\\layout.css"
-					],
-					[
-						"de11",
-						"detail\\detail11.html"
-					],
-					[
-						"3",
-						"index3.html"
-					],
-					[
-						"d9",
-						"detail\\detail9.html"
-					],
-					[
-						"detail8",
-						"detail\\detail8.html"
-					],
-					[
-						"index4",
-						"index4.html"
-					],
-					[
-						"index3",
-						"index3.html"
-					],
-					[
-						"index2",
-						"index2.html"
-					],
-					[
-						"detai2",
-						"detail\\detail2.html"
-					],
-					[
-						"detail7",
-						"detail\\detail7.html"
-					],
-					[
-						"detail6",
-						"detail\\detail6.html"
-					],
-					[
-						"deta",
-						"detail\\detail3.html"
-					],
-					[
-						"detail3",
-						"detail\\detail3.html"
-					],
-					[
-						"detail5",
-						"detail\\detail5.html"
-					],
-					[
-						"detail4",
-						"detail\\detail4.html"
-					],
-					[
-						"detail-f",
-						"detail-format.html"
-					],
-					[
-						"detail2.html",
-						"detail\\detail2.html"
-					],
-					[
-						"detail3.html",
-						"detail\\detail3.html"
-					],
-					[
-						"detail27",
-						"detail\\detail27.html"
-					],
-					[
-						"detail26",
-						"detail\\detail26.html"
-					],
-					[
-						"",
-						"detail\\detail25.html"
-					],
-					[
-						"t",
-						"test3.html"
-					],
-					[
-						"p",
-						"fonts\\PersonalUseEULA.txt"
-					],
-					[
-						"top",
-						"top.html"
-					],
-					[
-						"index9",
-						"index9.html"
-					],
-					[
-						"bot",
-						"botright.html"
-					],
-					[
-						"right",
-						"right.html"
-					],
-					[
-						"lef",
-						"left.html"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 236.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"pro",
-						"project"
+						"projec",
+						"projectCallback(response)"
 					],
 					[
 						"get",
-						"getActivitiesOfTask	(?)"
+						"getProjects	(?)"
 					],
 					[
 						"activi",
@@ -1036,14 +147,6 @@
 					[
 						"Acti",
 						"activityService"
-					],
-					[
-						"ac",
-						"activity"
-					],
-					[
-						"acti",
-						"activityId"
 					],
 					[
 						"url",
@@ -1060,10 +163,6 @@
 					[
 						"create",
 						"createProject"
-					],
-					[
-						"proje",
-						"projectService	(?)"
 					],
 					[
 						"bor-ra",
@@ -1326,42 +425,76 @@
 						"rgba()"
 					],
 					[
-						"list",
-						"list-style"
-					],
-					[
 						"h",
 						"h5	Tag"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"contents": "// Friday 01/15/16 at 04:59PM - 73 files in 0.2 secs\n\n## TODO (1)\n1. project/projectService.js:10   How about auto-correcting small spelling errors? */\n",
-					"settings":
-					{
-						"buffer_size": 152,
-						"line_ending": "Windows",
-						"name": "TodoReview",
-						"scratch": true
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "todo",
+				"height": 350.0,
+				"last_filter": "inst",
 				"selected_items":
 				[
 					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
 						"todo",
 						"TodoReview: Project Files"
+					],
+					[
+						"refres",
+						"Project: Refresh Folders"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"jshint",
+						"jshintify: show errors list for current line"
+					],
+					[
+						" install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"jslint",
+						"JSLint"
+					],
+					[
+						"termi",
+						"Terminal: Open"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git statu",
+						"Git: Status"
 					],
 					[
 						"insta",
@@ -1396,28 +529,12 @@
 						"Git: Pull"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"git status",
 						"Git: Status"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"Snippet: ",
 						"Snippet: <var>"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
 					],
 					[
 						"git diff",
@@ -1446,10 +563,6 @@
 					[
 						"git checkout ",
 						"Git: Checkout"
-					],
-					[
-						"git stat",
-						"Git: Status"
 					],
 					[
 						"git diff cur",
@@ -1535,50 +648,102 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/repo_timesheet"
-			],
 			"file_history":
 			[
-				"/D/repo_timesheet/app/app.module.js",
-				"/D/repo_timesheet/app/components/project/projectService.js",
-				"/D/repo_timesheet/index.html",
-				"/D/repo_timesheet/app/components/project/projectController.js",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Todo.sublime-snippet",
-				"/D/repo_timesheet/app/components/project/detail/projectDetailView.html",
-				"/D/repo_timesheet/app/components/project/detail/projectDetailController.js",
+				"/D/repo_timesheet/app/components/timesheet/weeklyTimesheetController.js",
+				"/D/repo_timesheet/app/shared/utility/utilityService.js",
+				"/D/repo_timesheet/app/components/timesheet/weeklyTimesheetView.html",
+				"/D/repo_timesheet/app/components/timesheet/dailyTimesheet/dailyTimesheetController.js",
+				"/D/repo_timesheet/tests/service.spec.js",
 				"/D/repo_timesheet/.git/COMMIT_EDITMSG",
-				"/D/repo_timesheet/app/components/task/taskService.js",
-				"/D/repo_timesheet/app/components/task/edittask/editTaskController.js",
-				"/D/repo_timesheet/app/components/task/addtask/addTaskController.js",
+				"/D/repo_timesheet/karma.conf.js",
+				"/D/repo_timesheet/app/components/timesheet/weeklyTimesheetService.js",
+				"/D/unittestingwithangularjs/lib/angular.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
+				"/D/repo_timesheet/app/app.module.js",
+				"/D/repo_timesheet/node_modules/phantomjs/test/tests.js",
+				"/D/repo_timesheet/app/components/activity/activity.module.js",
+				"/D/repo_timesheet/app/components/project/project.module.js",
 				"/D/repo_timesheet/app/components/activity/activityService.js",
+				"/D/repo_timesheet/app/components/timesheet/timesheet.module.js",
+				"/D/repo_timesheet/index.html",
+				"/D/repo_timesheet/app/components/report/report.module.js",
+				"/D/repo_timesheet/app/components/report/reportController.js",
+				"/D/repo_timesheet/app/components/task/create/addTaskController.js",
+				"/D/repo_timesheet/app/components/home/home.module.js",
+				"/D/repo_timesheet/app/components/user/user.module.js",
+				"/D/repo_timesheet/app/components/task/task.module.js",
+				"/D/repo_timesheet/app/components/report/activity.module.js",
+				"/D/repo_timesheet/app/components/activity/create/addActivityController.js",
+				"/D/repo_timesheet/app/components/project/projectController.js",
+				"/D/repo_timesheet/app/testdata.js",
+				"/D/unittestingwithangularjs/package.json",
+				"/D/repo_timesheet/package.json",
+				"/D/repo_timesheet/app/utility.js",
+				"/D/repo_timesheet/app/components/task/taskService.js",
+				"/D/repo_timesheet/app/components/project/detail/projectDetailView.html",
+				"/D/repo_timesheet/app/app.routes.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/repo_timesheet/app/shared/httpbackend/httpBackendController.js",
+				"/D/repo_timesheet/app/components/project/detail/projectDetailController.js",
+				"/D/repo_timesheet/app/components/user/userServices.js",
+				"/D/repo_timesheet/app/components/user/adduser/addUserController.js",
+				"/C/Users/hinge_y/.gitconfig",
+				"/D/repo_timesheet/app/components/user/adduser/addUserView.html",
+				"/C/Users/hinge_y/Desktop/127.0.0.12",
+				"/C/Users/hinge_y/Desktop/127.0.0.1.har",
+				"/D/repo_timesheet/app/components/user/userController.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Jshintify.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/jshintify/Jshintify.sublime-settings",
+				"/D/repo_timesheet/.jslintrc",
+				"/D/repo_timesheet/.jshintrc",
+				"/D/repo_timesheet/app/components/user/userView.html",
+				"/D/repo_timesheet/app/components/project/read/projectController.js",
+				"/D/unittestingwithangularjs/src/omdb/services.js",
+				"/D/unittestingwithangularjs/spec/omdb/service.spec.js",
+				"/D/unittestingwithangularjs/.gitignore",
+				"/D/unittestingwithangularjs/.git/COMMIT_EDITMSG",
+				"/D/unittestingwithangularjs/SpecRunner.html",
+				"/D/unittestingwithangularjs/karma.conf.js",
+				"/D/unittestingwithangularjs/spec/calculator.spec.js",
+				"/D/unittestingwithangularjs/src/calculator.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Jasmine.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/D/repo_timesheet/app/components/project/read/projectView.html",
+				"/D/repo_timesheet/app/components/project/projectService.js",
+				"/D/repo_timesheet/app/components/project/create/addProjectView.html",
+				"/D/repo_timesheet/app/components/activity/addactivity/addActivityController.js",
+				"/D/repo_timesheet/app/components/project/readproject/projectController.js",
+				"/D/repo_timesheet/app/components/project/readproject/projectView.html",
+				"/D/repo_timesheet/app/components/user/role/role.html",
+				"/D/repo_timesheet/app/components/user/role/roleController.js",
+				"/D/repo_timesheet/app/components/task/edittask/editTaskController.js",
+				"/D/repo_timesheet/app/components/activity/addactivity/addActivityView.html",
+				"/D/repo_timesheet/app/components/task/addtask/addTaskController.js",
+				"/D/repo_timesheet/.gitignore",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Todo.sublime-snippet",
 				"/D/repo_timesheet/app/components/project/editproject/editProjectController.js",
 				"/D/repo_timesheet/app/components/project/editproject/editProjectView.html",
 				"/D/repo_timesheet/app/components/project/addproject/addProjectController.js",
 				"/D/repo_timesheet/assets/css/index.css",
 				"/D/repo_timesheet/tests.html",
 				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Material Theme - Appbar/Material-Theme.sublime-theme",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/D/repo_timesheet/app/components/project/addproject/addProjectServices.js",
-				"/D/repo_timesheet/app/components/activity/addactivity/addActivityController.js",
 				"/D/repo_timesheet/app/components/timesheet/timesheet.html",
 				"/D/repo_timesheet/app/components/project/projectView.html",
 				"/D/repo_timesheet/app/components/home/homeView.html",
-				"/D/repo_timesheet/app/components/user/userView.html",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 				"/D/repo_timesheet/app/components/project/addproject/addProjectView.html",
 				"/D/repo_timesheet/app/components/task/addtask/addTaskView.html",
-				"/D/repo_timesheet/app/components/activity/addactivity/addActivityView.html",
 				"/D/repo_timesheet/app/components/user/profile/profileView.html",
 				"/D/repo_timesheet/app/shared/navigation/navigationAdmin.html",
-				"/D/repo_timesheet/app/app.routes.js",
 				"/D/repo_timesheet/app/components/home/homeController.js",
 				"/D/repo_timesheet/app/components/task/edittask/editTaskView.html",
 				"/D/repo_timesheet/app/shared/navigation/navigationController.js",
-				"/D/repo_timesheet/app/components/user/adduser/addUserView.html",
 				"/D/repo_timesheet/app/shared/date/validdatedirective.js",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
 				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Material Theme - Appbar/README.md",
 				"/C/Users/hinge_y/Desktop/sync.bat",
 				"/D/repo_timesheet/app/components/adduser/addUserView.html",
@@ -1595,7 +760,6 @@
 				"/D/repo_timesheet/app/components/addtask/addTaskView.html",
 				"/D/repo_timesheet/app/components/profile/profileView.html",
 				"/D/repo_timesheet/app/components/profile/profileController.js",
-				"/D/repo_timesheet/app/components/user/userController.js",
 				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/subangular.sublime-build",
 				"/D/repo_timesheet/app/components/task/taskView.html",
 				"/D/repo_timesheet/app/components/task/taskController.js",
@@ -1613,66 +777,11 @@
 				"/C/Users/hinge_y/Google Drive/workspace2.rar",
 				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/HandleRequest.html",
 				"/C/Users/hinge_y/patchwork/contributors/add-yashdeeph709.txt",
-				"//SHRUTI-U/Common Things/BookingsServiceImpl.java",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/displayUsers.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/viewRoom.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/bookingRequest.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/BookingRequest.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/handleRequestCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/showBookings.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/showBookingsCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/checkAvailabilityCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/checkAvailbleRooms.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/router.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/bower_components/bootstrap/less/bootstrap.less",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/viewRoomCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/createUser.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/loginCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/profileCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/displayUserCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/index.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/profileAdmin.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/profile.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/createRoom.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/css/app.css",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/createRoom.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/showBookingsCtrl",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/createUser.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/updateRoom.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/updateRoom.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/app.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/mainCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/login.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/navigation.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/bower_components/angular-filter/angular-filter.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/services/authService.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/toast.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/bower_components/angular-toaster/toaster.css",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/filters.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/CheckAvailbleRooms.html",
-				"/C/Users/hinge_y/Desktop/RoomManagement Environment Setup and Documentation/Setup.txt",
-				"/C/Users/hinge_y/Desktop/TestData.bat",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/bower_components/angular-toaster/toaster.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/bower_components/angular/angular.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/roomersClient.bat",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/start.bat",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/tests/Test.html",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/tests/app.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/tests/spec.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/adminProfileCtrl.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/controllers/toster.txt",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/js/services/interceptor.js",
-				"/C/Users/hinge_y/git/roomersClient/client/src/main/webapp/views/carousel.html",
-				"/D/Angular-Roomers-Seed/index.html",
-				"/D/Angular-Roomers-Seed/js/app.js",
-				"/C/Users/hinge_y/Desktop/MainClass.java",
-				"//shruti-u/Common Things/Room management/createUser.js",
-				"/C/Users/hinge_y/git/roomers/UserCollection.json",
-				"//shruti-u/Common Things/Room management/createUser.html"
+				"//SHRUTI-U/Common Things/BookingsServiceImpl.java"
 			],
 			"find":
 			{
-				"height": 71.0
+				"height": 73.0
 			},
 			"find_in_files":
 			{
@@ -1686,6 +795,77 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"button",
+					"submit",
+					"2",
+					"utilityService.nextDay(date,",
+					"this",
+					"nextDay",
+					"thedate",
+					"nextDay",
+					"nextDay(monday,",
+					"nextDay",
+					"utilityService.getDateString(",
+					"\"01\"",
+					"\"2016\"",
+					"\"2016/01/",
+					"$http",
+					"project",
+					"Factory",
+					"Task",
+					"pta",
+					"$scope.dbRows",
+					"$scope.dbRows.",
+					" $scope.dbRows",
+					"$scope.days",
+					"startDate",
+					"date",
+					"/01/",
+					"01",
+					"console.log(",
+					"$scope.dbRows[row]",
+					".day",
+					"ng-model=\"day",
+					"startDdate",
+					"nextDay(date",
+					"date",
+					"value=\"save all\"",
+					"response[i]",
+					"myFunc",
+					"nextDay(nextDay(nextDay(date)))",
+					"emptyArray[i]",
+					"\"workingHour\": 8,",
+					"date.substr(date.lastIndexOf('-') + 1)",
+					"date.substr(date.lastIndexOf('-') + 1) +",
+					"Data",
+					"1",
+					"project",
+					"there",
+					"task",
+					"Task",
+					"TaskFactory",
+					"TaskService",
+					"angular.mock.",
+					"service",
+					"files",
+					"addac",
+					"count",
+					"projectService.getProjects($scope.currentPage, $scope.pageSize).success(projectCallback);",
+					"(projectCallback)",
+					"projectCallback",
+					"$scope.pageSize",
+					"$scope.currentPage",
+					"1",
+					"button",
+					"\n            ",
+					"addProject",
+					"projectService.getProjects($scope.currentPage, $scope.pageSize).success(projectCallback);",
+					"also",
+					"tid",
+					"create",
+					"Activity",
+					"task",
+					"Task",
 					"'$http',",
 					"$http",
 					"projectId",
@@ -1742,78 +922,7 @@
 					"Task",
 					"task",
 					"Task",
-					"task",
-					"Task",
-					"task",
-					"Task",
-					"modal",
-					"login",
-					"project",
-					" type=\"text/javascript\"",
-					"console",
-					"$stateParams",
-					"add",
-					"h1",
-					"style=\"height:46px;\"",
-					"$state",
-					"        ",
-					"/",
-					"\\",
-					"user",
-					"login",
-					"profile",
-					"userC",
-					"Lighter",
-					"\\",
-					"a",
-					"href=\"#\"",
-					"css",
-					"body",
-					"input-sm",
-					"panel",
-					"| utc ",
-					"utc",
-					"\n	 							  ",
-					"col-md-12 form-control",
-					"form-control",
-					"\"",
-					"ng-patter",
-					"getFullYear()",
-					"+\"/\"+",
-					"log(date",
-					".status",
-					"<div class=\"status\">",
-					"{{d{{value[5].status}}1}}",
-					"1}}",
-					"{{d",
-					"{{date",
-					"{{date1}}",
-					"\"&nbsp;\"",
-					"].status",
-					"<span class=\"day\">",
-					"<span>",
-					"Not Available",
-					"curPage",
-					"v2",
-					"false",
-					"screen",
-					"Capacity",
-					"roomCapacity",
-					"profileAdmin.viewRoom",
-					"profileAdmin/viewRoom",
-					"Admin",
-					"isGreaterThanOrEqualToFilter",
-					"profileUser",
-					"'auth'",
-					"auth",
-					"\")){",
-					"$state",
-					"$location",
-					"rooms",
-					"capacitie",
-					"console",
-					"})",
-					"path"
+					"task"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1829,104 +938,18 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "D:\\repo_timesheet"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 152,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										152,
-										152
-									]
-								],
-								"settings":
-								{
-									"default_dir": "D:\\repo_timesheet",
-									"line_padding_bottom": 2,
-									"line_padding_top": 2,
-									"review_args":
-									{
-										"settings":
-										{
-										}
-									},
-									"review_results":
-									{
-										"66,152":
-										{
-											"file": "D:\\repo_timesheet\\app\\components\\project\\projectService.js",
-											"line": 10,
-											"note": "How about auto-correcting small spelling errors? */",
-											"patt": "todo",
-											"priority": 100
-										}
-									},
-									"syntax": "Packages/TodoReview/TodoReview.hidden-tmLanguage",
-									"todo_results": true,
-									"word_wrap": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 35.0
 			},
 			"input":
 			{
 				"height": 73.0
 			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 146.0
+				"height": 58.0
 			},
 			"output.find_results":
 			{
@@ -1940,16 +963,18 @@
 			{
 				"height": 204.0
 			},
+			"output.git-commit":
+			{
+				"height": 180.0
+			},
 			"output.git-pull":
 			{
 				"height": 204.0
 			},
 			"pinned_build_system": "Packages/User/subangular.sublime-build",
-			"position": "0,2,3,-1,-1,-1,-1,592,73,66,721",
-			"project": "",
 			"replace":
 			{
-				"height": 116.0
+				"height": 66.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1959,28 +984,236 @@
 				"selected_items":
 				[
 					[
-						"proser",
-						"app\\components\\project\\projectService.js"
+						"uti",
+						"app\\shared\\utility\\utilityService.js"
+					],
+					[
+						"we",
+						"app\\components\\timesheet\\weeklyTimesheetView.html"
+					],
+					[
+						"dai",
+						"app\\components\\timesheet\\dailyTimesheet\\dailyTimesheetController.js"
+					],
+					[
+						"da",
+						"app\\components\\timesheet\\dailyTimesheet\\dailyTimesheetController.js"
+					],
+					[
+						"dail",
+						"app\\components\\timesheet\\dailyTimesheet\\dailyTimesheetController.js"
+					],
+					[
+						"kar",
+						"karma.conf.js"
+					],
+					[
+						"wee",
+						"app\\components\\timesheet\\weeklyTimesheetView.html"
+					],
+					[
+						"w",
+						"app\\components\\timesheet\\weeklyTimesheetView.html"
+					],
+					[
+						"test",
+						"node_modules\\phantomjs\\test\\tests.js"
+					],
+					[
+						"ap",
+						"app\\app.module.js"
+					],
+					[
+						"app.mo",
+						"app\\app.module.js"
+					],
+					[
+						"modu",
+						"app\\app.module.js"
+					],
+					[
+						"ser",
+						"app\\components\\task\\taskService.js"
+					],
+					[
+						"task",
+						"app\\components\\task\\taskService.js"
+					],
+					[
+						"ut",
+						"app\\utility.js"
+					],
+					[
+						"i",
+						"index.html"
 					],
 					[
 						"",
+						"app\\components\\timesheet\\weeklyTimesheetView.html"
+					],
+					[
+						"mod",
 						"app\\app.module.js"
+					],
+					[
+						"app.route",
+						"app\\app.routes.js"
+					],
+					[
+						"route",
+						"app\\app.routes.js"
+					],
+					[
+						"projdet",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"projde",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"http",
+						"app\\shared\\httpbackend\\httpBackendController.js"
+					],
+					[
+						"addu",
+						"app\\components\\user\\adduser\\addUserView.html"
+					],
+					[
+						"users",
+						"app\\components\\user\\userServices.js"
+					],
+					[
+						"userser",
+						"app\\components\\user\\userServices.js"
+					],
+					[
+						"user",
+						"app\\components\\user\\userController.js"
+					],
+					[
+						"pro",
+						"app\\components\\project\\read\\projectController.js"
 					],
 					[
 						"in",
 						"index.html"
 					],
 					[
-						"pro",
-						"app\\components\\project\\projectController.js"
+						"serv",
+						"app\\components\\task\\taskService.js"
+					],
+					[
+						"userv",
+						"app\\components\\user\\userView.html"
+					],
+					[
+						"use",
+						"app\\components\\user\\userController.js"
+					],
+					[
+						"sp",
+						"SpecRunner.html"
+					],
+					[
+						"spe",
+						"SpecRunner.html"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"app.",
+						"app\\app.module.js"
+					],
+					[
+						"prov",
+						"app\\components\\project\\read\\projectView.html"
+					],
+					[
+						"projecs",
+						"app\\components\\project\\projectService.js"
+					],
+					[
+						"proser",
+						"app\\components\\project\\projectService.js"
+					],
+					[
+						"provi",
+						"app\\components\\project\\read\\projectView.html"
+					],
+					[
+						"projc",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"addp",
+						"app\\components\\project\\create\\addProjectView.html"
+					],
+					[
+						"add",
+						"app\\components\\activity\\addactivity\\addActivityController.js"
+					],
+					[
+						"prode",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"det",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"rou",
+						"app\\app.routes.js"
+					],
+					[
+						"role",
+						"app\\components\\user\\role\\roleController.js"
+					],
+					[
+						"ro",
+						"app\\components\\user\\role\\role.html"
+					],
+					[
+						"prod",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"editta",
+						"app\\components\\task\\edittask\\editTaskController.js"
+					],
+					[
+						"adda",
+						"app\\components\\activity\\addactivity\\addActivityController.js"
+					],
+					[
+						"adac",
+						"app\\components\\activity\\addactivity\\addActivityController.js"
+					],
+					[
+						"addac",
+						"app\\components\\activity\\addactivity\\addActivityView.html"
+					],
+					[
+						"prd",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"acser",
+						"app\\components\\activity\\activityService.js"
+					],
+					[
+						"act",
+						"app\\components\\activity\\activityService.js"
+					],
+					[
+						"prose",
+						"app\\components\\project\\projectService.js"
 					],
 					[
 						"tasks",
 						"app\\components\\task\\taskService.js"
-					],
-					[
-						"prod",
-						"app\\components\\project\\detail\\projectDetailController.js"
 					],
 					[
 						"rojed",
@@ -1995,23 +1228,7 @@
 						"app\\components\\task\\addtask\\addTaskController.js"
 					],
 					[
-						"act",
-						"app\\components\\activity\\activityService.js"
-					],
-					[
 						"acti",
-						"app\\components\\activity\\activityService.js"
-					],
-					[
-						"modu",
-						"app\\app.module.js"
-					],
-					[
-						"i",
-						"index.html"
-					],
-					[
-						"acser",
 						"app\\components\\activity\\activityService.js"
 					],
 					[
@@ -2035,24 +1252,12 @@
 						"app\\components\\project\\editproject\\editProjectView.html"
 					],
 					[
-						"addp",
-						"app\\components\\project\\addproject\\addProjectController.js"
-					],
-					[
 						"inde",
 						"index.html"
 					],
 					[
-						"add",
-						"app\\components\\activity\\addactivity\\addActivityController.js"
-					],
-					[
 						"addpro",
 						"app\\components\\project\\addproject\\addProjectServices.js"
-					],
-					[
-						"user",
-						"app\\components\\user\\userView.html"
 					],
 					[
 						"uservi",
@@ -2061,14 +1266,6 @@
 					[
 						"indcss",
 						"assets\\css\\index.css"
-					],
-					[
-						"prode",
-						"app\\components\\project\\detail\\projectDetailView.html"
-					],
-					[
-						"addac",
-						"app\\components\\activity\\addactivity\\addActivityView.html"
 					],
 					[
 						"addtas",
@@ -2091,14 +1288,6 @@
 						"app\\components\\timesheet\\timesheet.html"
 					],
 					[
-						"userv",
-						"app\\components\\user\\userView.html"
-					],
-					[
-						"provi",
-						"app\\components\\project\\projectView.html"
-					],
-					[
 						"navi",
 						"app\\shared\\navigation\\navigationAdmin.html"
 					],
@@ -2109,14 +1298,6 @@
 					[
 						"projd",
 						"app\\components\\project\\detail\\projectDetailController.js"
-					],
-					[
-						"adda",
-						"app\\components\\activity\\addactivity\\addActivityController.js"
-					],
-					[
-						"route",
-						"app\\app.routes.js"
 					],
 					[
 						"home",
@@ -2137,18 +1318,6 @@
 					[
 						"hom",
 						"app\\components\\home\\homeController.js"
-					],
-					[
-						"app.",
-						"app\\app.module.js"
-					],
-					[
-						"addu",
-						"app\\components\\user\\adduser\\addUserView.html"
-					],
-					[
-						"task",
-						"app\\components\\task\\addtask\\addTaskController.js"
 					],
 					[
 						"edittask",
@@ -2179,14 +1348,6 @@
 						"app\\components\\project\\projectController.js"
 					],
 					[
-						"app.route",
-						"app\\app.routes.js"
-					],
-					[
-						"projc",
-						"app\\components\\project\\projectController.js"
-					],
-					[
 						"app",
 						"app\\app.module.js"
 					],
@@ -2209,10 +1370,6 @@
 					[
 						"proje",
 						"app\\components\\project\\projectView.html"
-					],
-					[
-						"app.mo",
-						"app\\app.module.js"
 					],
 					[
 						"app.ro",
@@ -2261,10 +1418,6 @@
 					[
 						"na",
 						"app\\shared\\navigation\\navigationAdmin.html"
-					],
-					[
-						"rou",
-						"app\\app.routes.js"
 					],
 					[
 						"ho",
@@ -2341,134 +1494,1589 @@
 					[
 						"bootstrap",
 						"bower_components\\bootstrap\\less\\bootstrap.less"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 236.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"time",
+						"timesheetService	{}"
 					],
 					[
-						"view",
-						"views\\viewRoom.html"
+						"sa",
+						"saveTimesheet	(?)"
 					],
 					[
-						"chec",
-						"js\\controllers\\checkAvailabilityCtrl.js"
+						"fun",
+						"function without name"
 					],
 					[
-						"ch",
-						"js\\controllers\\checkAvailabilityCtrl.js"
+						"ex",
+						"expected	[]"
 					],
 					[
-						"book",
-						"views\\BookingRequest.html"
+						"uti",
+						"utilityService"
 					],
 					[
-						"reques",
-						"js\\controllers\\bookingRequest.js"
+						"U",
+						"UtilityFactory	{}"
 					],
 					[
-						"log",
-						"js\\controllers\\loginCtrl.js"
+						"days",
+						"daysList	[]"
 					],
 					[
-						"hadn",
-						"js\\controllers\\handleRequestCtrl.js"
+						"ac",
+						"activity	(?)"
 					],
 					[
-						"viewbo",
-						"views\\showBookings.html"
+						"acti",
+						"activityName"
 					],
 					[
-						"ctrl",
-						"js\\controllers\\loginCtrl.js"
+						"date",
+						"dateofday	{}"
 					],
 					[
-						"booki",
-						"views\\showBookings.html"
+						"pro",
+						"projectId"
 					],
 					[
-						"han",
-						"views\\HandleRequest.html"
+						"project",
+						"projectName"
 					],
 					[
-						"checkj",
-						"js\\controllers\\checkAvailabilityCtrl.js"
+						"ope",
+						"opened	(?)"
 					],
 					[
-						"shwo",
-						"views\\showBookings.html"
+						"day",
+						"dayComparator(day1, workingHour}, day2, workingHour})"
 					],
 					[
-						"ds",
-						"js\\controllers\\displayUserCtrl.js"
+						"the",
+						"thedate"
 					],
 					[
-						"dsi",
-						"views\\displayUsers.html"
+						"dat",
+						"daysListParam	(?)"
 					],
 					[
-						"up",
-						"js\\controllers\\updateRoom.js"
+						"list",
+						"daysList"
 					],
 					[
-						"upd",
-						"views\\updateRoom.html"
+						"posof",
+						"posofdate3	(?)"
 					],
 					[
-						"vi",
-						"views\\viewRoom.html"
+						"comm",
+						"comm-todo	Comment - To-do list"
 					],
 					[
-						"ap",
-						"js\\app.js"
+						"act",
+						"activity"
 					],
 					[
-						"viewu",
-						"views\\displayUsers.html"
+						"http",
+						"$httpBackend	AngularJS"
 					],
 					[
-						"mai",
-						"js\\controllers\\mainCtrl.js"
+						"en",
+						"encodeURIComponent(uri)"
 					],
 					[
-						"main",
-						"js\\controllers\\mainCtrl.js"
+						"proje",
+						"projectService	{}"
 					],
 					[
-						"di",
-						"js\\controllers\\displayUserCtrl.js"
+						"projectCall",
+						"projectCallbackWithNext"
 					],
 					[
-						"profile",
-						"views\\profile.html"
+						"projec",
+						"projectCallback(response)"
 					],
 					[
-						"filter",
-						"bower_components\\angular-filter\\angular-filter.js"
+						"get",
+						"getProjects	(?)"
+					],
+					[
+						"activi",
+						"activityService	(?)"
+					],
+					[
+						"getActi",
+						"getActivityofTask(taskId)"
+					],
+					[
+						"Acti",
+						"activityService"
+					],
+					[
+						"url",
+						"urlBase"
+					],
+					[
+						"task",
+						"taskService	(?)"
+					],
+					[
+						"sear",
+						"searchTerm	(?)"
+					],
+					[
+						"create",
+						"createProject"
+					],
+					[
+						"bor-ra",
+						"border-radius"
+					],
+					[
+						"inp",
+						"inputn	input - number"
+					],
+					[
+						"bs3gl",
+						"bs3-icon:glyphicon	bs3-icon-glyphicon"
+					],
+					[
+						"T",
+						"TimeSheetApp"
+					],
+					[
+						"$stte",
+						"$stateParams	(?)"
+					],
+					[
+						"$state",
+						"$stateParams	(?)"
+					],
+					[
+						"bs3",
+						"bs3-alert	bs3-alert"
+					],
+					[
+						"bs3-form",
+						"bs3-form	bs3-form"
+					],
+					[
+						"con",
+						"constant	AngularJS"
+					],
+					[
+						"bs3-gly",
+						"bs3-icon:glyphicon	bs3-icon-glyphicon"
+					],
+					[
+						"selec",
+						"selected	Attr"
+					],
+					[
+						"label",
+						"label	<label>"
+					],
+					[
+						"tru",
+						"trustedHtml"
+					],
+					[
+						"page",
+						"pageSize	(?)"
+					],
+					[
+						"pa",
+						"pageSize	(?)"
+					],
+					[
+						"cur",
+						"curPage	(?)"
+					],
+					[
+						"Ser",
+						"SERVER_ADDRESS	(?)"
+					],
+					[
+						"ser",
+						"SERVER_ADDRESS"
+					],
+					[
+						"room",
+						"roomCapacity"
+					],
+					[
+						"roomPro",
+						"roomProjectors"
+					],
+					[
+						"is",
+						"isLoggedIn	(?)"
+					],
+					[
+						"from",
+						"fromState	{}"
 					],
 					[
 						"lo",
-						"js\\controllers\\loginCtrl.js"
+						"localStorage"
 					],
 					[
-						"update",
-						"views\\updateRoom.html"
+						"sele",
+						"selected	Attr"
 					],
 					[
-						"logi",
-						"js\\controllers\\loginCtrl.js"
+						"local",
+						"localStorage"
 					],
 					[
-						"toast",
-						"views\\toast.html"
+						"a",
+						"aUser	(?)"
 					],
 					[
-						"ma",
-						"js\\controllers\\mainCtrl.js"
+						"ng-cl",
+						"ng-click	AngularJS"
+					],
+					[
+						"locat",
+						"localStorage"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS(DI)"
+					],
+					[
+						"i",
+						"ife	if … else"
+					],
+					[
+						"iv",
+						"ivBytes"
+					],
+					[
+						"bs",
+						"bs3-navbar	bs3-navbar"
+					],
+					[
+						"sty",
+						"style	Attr"
+					],
+					[
+						"loc",
+						"localStorage"
+					],
+					[
+						"in",
+						"inherit"
+					],
+					[
+						"mov",
+						"moviesdb	[]"
+					],
+					[
+						"cata",
+						"catagory"
+					],
+					[
+						"mo",
+						"moviesdb	[]"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"pas",
+						"passwordinc	(bool)"
+					],
+					[
+						"user",
+						"userdoesnt	(bool)"
+					],
+					[
+						"va",
+						"value	Attr"
+					],
+					[
+						"Star",
+						"Star-Full"
+					],
+					[
+						"St",
+						"Star-Full"
+					],
+					[
+						"margi",
+						"margin-left"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"mar",
+						"margin-top"
 					],
 					[
 						"v",
+						"value"
+					],
+					[
+						"onmou",
+						"onmouseover	Attr"
+					],
+					[
+						"style",
+						"style	Attr"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"onc",
+						"onclick	Attr"
+					],
+					[
+						"disl",
+						"display"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"rgb",
+						"rgba()"
+					],
+					[
+						"h",
+						"h5	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/repo_timesheet/Shortcuts and more!",
+					"settings":
+					{
+						"buffer_size": 99,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"termi",
+						"Terminal: Open"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"todo",
+						"TodoReview: Project Files"
+					],
+					[
+						"refres",
+						"Project: Refresh Folders"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"jshint",
+						"jshintify: show errors list for current line"
+					],
+					[
+						" install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"jslint",
+						"JSLint"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"pre",
+						"Preferences: Settings - User"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"aut",
+						"Autoprefix CSS"
+					],
+					[
+						"htmcs",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"pref",
+						"Preferences: Settings - User"
+					],
+					[
+						"git pul",
+						"Git: Pull"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"Snippet: ",
+						"Snippet: <var>"
+					],
+					[
+						"git diff",
+						"Git: Diff"
+					],
+					[
+						"can",
+						"Build: Cancel"
+					],
+					[
+						"build",
+						"Build With: subangular"
+					],
+					[
+						"canc",
+						"Build: Cancel"
+					],
+					[
+						"cancel",
+						"Build: Cancel"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git checkout ",
+						"Git: Checkout"
+					],
+					[
+						"git diff cur",
+						"Git: Diff Current File"
+					],
+					[
+						"git di",
+						"Git: Diff All Files"
+					],
+					[
+						"beau",
+						"HTMLBeautify"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"buil",
+						"Build: Cancel"
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"preti",
+						"HTMLPrettify"
+					],
+					[
+						"ter",
+						"TernJS: Jump to definition"
+					],
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"ht",
+						"HTMLBeautify"
+					],
+					[
+						"",
+						"Autoprefix CSS"
+					],
+					[
+						"pretif",
+						"HTMLPrettify: Set Keyboard Shortcuts"
+					],
+					[
+						"pretify",
+						"HTMLPrettify: Set `node` Path"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 382.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/repo_timesheet",
+				"/D/repo_timesheet/app/shared"
+			],
+			"file_history":
+			[
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/repo_timesheet/app/components/timesheet/timesheet.module.js",
+				"/D/repo_timesheet/app/app.routes.js",
+				"/D/repo_timesheet/app/components/project/create/fileUpload.js",
+				"/D/repo_timesheet/app/components/project/create/bulkUploadModal.html",
+				"/D/repo_timesheet/app/components/task/taskService.js",
+				"/D/repo_timesheet/app/components/user/associate/associateUser.html",
+				"/D/repo_timesheet/app/components/user/userView.html",
+				"/D/repo_timesheet/app/shared/utility/utilityService.js",
+				"/D/repo_timesheet/app/components/timesheet/weeklyTimesheetService.js",
+				"/D/repo_timesheet/app/components/timesheet/weeklyTimesheetView.html",
+				"/D/repo_timesheet/app/components/timesheet/weeklyTimesheetController.js",
+				"/D/repo_timesheet/index.html",
+				"/D/repo_timesheet/assets/css/index.css",
+				"/D/repo_timesheet/app/components/report/reportService.js",
+				"/D/repo_timesheet/app/components/user/role/roleController.js",
+				"/D/repo_timesheet/.git/COMMIT_EDITMSG",
+				"/D/repo_timesheet/app/components/report/reportController.js",
+				"/D/repo_timesheet/app/components/report/reportView.html",
+				"/D/repo_timesheet/tests/service.spec.js",
+				"/D/repo_timesheet/app/app.module.js",
+				"/D/repo_timesheet/app/components/project/projectService.js",
+				"/D/repo_timesheet/app/components/user/userServices.js",
+				"/D/repo_timesheet/assets/js/ui-select.js",
+				"/D/repo_timesheet/assets/css/ui-select.css",
+				"/D/repo_timesheet/app/components/report/report.module.js",
+				"/D/repo_timesheet/app/components/timesheet/dailyTimesheet/dailyTimesheetController.js",
+				"/D/repo_timesheet/karma.conf.js",
+				"/D/unittestingwithangularjs/lib/angular.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
+				"/D/repo_timesheet/node_modules/phantomjs/test/tests.js",
+				"/D/repo_timesheet/app/components/activity/activity.module.js",
+				"/D/repo_timesheet/app/components/project/project.module.js",
+				"/D/repo_timesheet/app/components/activity/activityService.js",
+				"/D/repo_timesheet/app/components/task/create/addTaskController.js",
+				"/D/repo_timesheet/app/components/home/home.module.js",
+				"/D/repo_timesheet/app/components/user/user.module.js",
+				"/D/repo_timesheet/app/components/task/task.module.js",
+				"/D/repo_timesheet/app/components/report/activity.module.js",
+				"/D/repo_timesheet/app/components/activity/create/addActivityController.js",
+				"/D/repo_timesheet/app/components/project/projectController.js",
+				"/D/repo_timesheet/app/testdata.js",
+				"/D/unittestingwithangularjs/package.json",
+				"/D/repo_timesheet/package.json",
+				"/D/repo_timesheet/app/utility.js",
+				"/D/repo_timesheet/app/components/project/detail/projectDetailView.html",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/repo_timesheet/app/shared/httpbackend/httpBackendController.js",
+				"/D/repo_timesheet/app/components/project/detail/projectDetailController.js",
+				"/D/repo_timesheet/app/components/user/adduser/addUserController.js",
+				"/C/Users/hinge_y/.gitconfig",
+				"/D/repo_timesheet/app/components/user/adduser/addUserView.html",
+				"/C/Users/hinge_y/Desktop/127.0.0.12",
+				"/C/Users/hinge_y/Desktop/127.0.0.1.har",
+				"/D/repo_timesheet/app/components/user/userController.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Jshintify.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/jshintify/Jshintify.sublime-settings",
+				"/D/repo_timesheet/.jslintrc",
+				"/D/repo_timesheet/.jshintrc",
+				"/D/repo_timesheet/app/components/project/read/projectController.js",
+				"/D/unittestingwithangularjs/src/omdb/services.js",
+				"/D/unittestingwithangularjs/spec/omdb/service.spec.js",
+				"/D/unittestingwithangularjs/.gitignore",
+				"/D/unittestingwithangularjs/.git/COMMIT_EDITMSG",
+				"/D/unittestingwithangularjs/SpecRunner.html",
+				"/D/unittestingwithangularjs/karma.conf.js",
+				"/D/unittestingwithangularjs/spec/calculator.spec.js",
+				"/D/unittestingwithangularjs/src/calculator.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Jasmine.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/D/repo_timesheet/app/components/project/read/projectView.html",
+				"/D/repo_timesheet/app/components/project/create/addProjectView.html",
+				"/D/repo_timesheet/app/components/activity/addactivity/addActivityController.js",
+				"/D/repo_timesheet/app/components/project/readproject/projectController.js",
+				"/D/repo_timesheet/app/components/project/readproject/projectView.html",
+				"/D/repo_timesheet/app/components/user/role/role.html",
+				"/D/repo_timesheet/app/components/task/edittask/editTaskController.js",
+				"/D/repo_timesheet/app/components/activity/addactivity/addActivityView.html",
+				"/D/repo_timesheet/app/components/task/addtask/addTaskController.js",
+				"/D/repo_timesheet/.gitignore",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Todo.sublime-snippet",
+				"/D/repo_timesheet/app/components/project/editproject/editProjectController.js",
+				"/D/repo_timesheet/app/components/project/editproject/editProjectView.html",
+				"/D/repo_timesheet/app/components/project/addproject/addProjectController.js",
+				"/D/repo_timesheet/tests.html",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Material Theme - Appbar/Material-Theme.sublime-theme",
+				"/D/repo_timesheet/app/components/project/addproject/addProjectServices.js",
+				"/D/repo_timesheet/app/components/timesheet/timesheet.html",
+				"/D/repo_timesheet/app/components/project/projectView.html",
+				"/D/repo_timesheet/app/components/home/homeView.html",
+				"/D/repo_timesheet/app/components/project/addproject/addProjectView.html",
+				"/D/repo_timesheet/app/components/task/addtask/addTaskView.html",
+				"/D/repo_timesheet/app/components/user/profile/profileView.html",
+				"/D/repo_timesheet/app/shared/navigation/navigationAdmin.html",
+				"/D/repo_timesheet/app/components/home/homeController.js",
+				"/D/repo_timesheet/app/components/task/edittask/editTaskView.html",
+				"/D/repo_timesheet/app/shared/navigation/navigationController.js",
+				"/D/repo_timesheet/app/shared/date/validdatedirective.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Material Theme - Appbar/README.md",
+				"/C/Users/hinge_y/Desktop/sync.bat",
+				"/D/repo_timesheet/app/components/adduser/addUserView.html",
+				"/D/repo_timesheet/app/components/addproject/addProjectController.js",
+				"/D/repo_timesheet/app/components/addproject/addProjectView.html",
+				"/D/repo_timesheet/app/components/editproject/editProjectController.js",
+				"/D/repo_timesheet/app/components/editproject/editProjectView.html",
+				"/D/repo_timesheet/app/shared/navigation/navigation.html",
+				"/D/repo_timesheet/app/components/addtask/addTaskController.js",
+				"/D/repo_timesheet/app/components/addactivity/addActivityController.js",
+				"/D/repo_timesheet/app/components/addactivity/addActivityView.html",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Material Theme - Appbar/src/components/tabs.js",
+				"/D/repo_timesheet/app/components/addtask/addTaskView.html",
+				"/D/repo_timesheet/app/components/profile/profileView.html",
+				"/D/repo_timesheet/app/components/profile/profileController.js",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/subangular.sublime-build",
+				"/D/repo_timesheet/app/components/task/taskView.html",
+				"/D/repo_timesheet/app/components/task/taskController.js",
+				"/D/repo_timesheet/app/shared/navigation/navigationSubAdmin.html",
+				"/D/repo_timesheet/home.html",
+				"/D/repo_timesheet/assets/css/bootstrap.css",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.user-ca-bundle",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/service.sublime-snippet",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/angular.sublime-build"
+			],
+			"find":
+			{
+				"height": 73.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"task",
+					"Task",
+					"                                        <br>\n",
+					"<input type=\"text\" class=\"form-control\"",
+					"- 1",
+					"day - 1",
+					"days[0]",
+					"</td>",
+					"<td",
+					"<td>",
+					"date:'EEE'}}",
+					"dd:MM:YYY",
+					"MM",
+					".total",
+					"$scope.dbRows[i].daysList[",
+					"].workingHour",
+					"=",
+					"<input type=\"text\"",
+					"6",
+					"0",
+					"day",
+					"|json",
+					"Task",
+					"task",
+					"year",
+					"get",
+					"button",
+					"submit",
+					"2",
+					"utilityService.nextDay(date,",
+					"this",
+					"nextDay",
+					"thedate",
+					"nextDay",
+					"nextDay(monday,",
+					"nextDay",
+					"utilityService.getDateString(",
+					"\"01\"",
+					"\"2016\"",
+					"\"2016/01/",
+					"$http",
+					"project",
+					"Factory",
+					"Task",
+					"pta",
+					"$scope.dbRows",
+					"$scope.dbRows.",
+					" $scope.dbRows",
+					"$scope.days",
+					"startDate",
+					"date",
+					"/01/",
+					"01",
+					"console.log(",
+					"$scope.dbRows[row]",
+					".day",
+					"ng-model=\"day",
+					"startDdate",
+					"nextDay(date",
+					"date",
+					"value=\"save all\"",
+					"response[i]",
+					"myFunc",
+					"nextDay(nextDay(nextDay(date)))",
+					"emptyArray[i]",
+					"\"workingHour\": 8,",
+					"date.substr(date.lastIndexOf('-') + 1)",
+					"date.substr(date.lastIndexOf('-') + 1) +",
+					"Data",
+					"1",
+					"project",
+					"there",
+					"task",
+					"Task",
+					"TaskFactory",
+					"TaskService",
+					"angular.mock.",
+					"service",
+					"files",
+					"addac",
+					"count",
+					"projectService.getProjects($scope.currentPage, $scope.pageSize).success(projectCallback);",
+					"(projectCallback)",
+					"projectCallback",
+					"$scope.pageSize",
+					"$scope.currentPage",
+					"1",
+					"button",
+					"\n            ",
+					"addProject",
+					"projectService.getProjects($scope.currentPage, $scope.pageSize).success(projectCallback);",
+					"also",
+					"tid",
+					"create",
+					"Activity",
+					"task",
+					"Task",
+					"'$http',",
+					"$http",
+					"projectId",
+					"project",
+					"Task",
+					"Project",
+					"9",
+					"              /*\n                Param:projectId,project\n                Return:promise\n                */\n  ",
+					"\n<",
+					"Controller",
+					"container",
+					"-",
+					"fa fa-trash",
+					"fa fa-pencil",
+					"pencil",
+					"fa fa-pencil",
+					"button",
+					"class=\"btn btn-info\"",
+					"fa-2x",
+					"2",
+					"aria-hidden=\"true\"",
+					"button",
+					"span",
+					"center",
+					"col-md-6",
+					"form-group",
+					"\"",
+					"form-group",
+					"td",
+					"cre",
+					"add"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"input-xs"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\repo_timesheet"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/repo_timesheet/Shortcuts and more!",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 99,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										98,
+										98
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 73.0
+			},
+			"input":
+			{
+				"height": 73.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 235.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 442.0
+			},
+			"output.git-checkout":
+			{
+				"height": 204.0
+			},
+			"output.git-commit":
+			{
+				"height": 180.0
+			},
+			"output.git-pull":
+			{
+				"height": 204.0
+			},
+			"pinned_build_system": "Packages/User/subangular.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,592,66,66,714",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ser",
+						"app\\components\\task\\taskService.js"
+					],
+					[
+						"time",
+						"app\\components\\timesheet\\timesheet.module.js"
+					],
+					[
+						"route",
+						"app\\app.routes.js"
+					],
+					[
+						"user",
+						"app\\components\\user\\userView.html"
+					],
+					[
+						"i",
+						"index.html"
+					],
+					[
+						"servi",
+						"app\\components\\task\\taskService.js"
+					],
+					[
+						"wee",
+						"app\\components\\timesheet\\weeklyTimesheetService.js"
+					],
+					[
+						"index",
+						"assets\\css\\index.css"
+					],
+					[
+						"uti",
+						"app\\shared\\utility\\utilityService.js"
+					],
+					[
+						"weecon",
+						"app\\components\\timesheet\\weeklyTimesheetController.js"
+					],
+					[
+						"we",
+						"app\\components\\timesheet\\weeklyTimesheetView.html"
+					],
+					[
+						"reporser",
+						"app\\components\\report\\reportService.js"
+					],
+					[
+						"reser",
+						"app\\components\\report\\reportService.js"
+					],
+					[
+						"reportser",
+						"app\\components\\report\\reportService.js"
+					],
+					[
+						"in",
+						"index.html"
+					],
+					[
+						"app",
+						"app\\app.module.js"
+					],
+					[
+						"projs",
+						"app\\components\\project\\projectService.js"
+					],
+					[
+						"pros",
+						"app\\components\\project\\projectService.js"
+					],
+					[
+						"mod",
+						"app\\app.module.js"
+					],
+					[
+						"users",
+						"app\\components\\user\\userServices.js"
+					],
+					[
+						"dai",
+						"app\\components\\timesheet\\dailyTimesheet\\dailyTimesheetController.js"
+					],
+					[
+						"da",
+						"app\\components\\timesheet\\dailyTimesheet\\dailyTimesheetController.js"
+					],
+					[
+						"dail",
+						"app\\components\\timesheet\\dailyTimesheet\\dailyTimesheetController.js"
+					],
+					[
+						"kar",
+						"karma.conf.js"
+					],
+					[
+						"w",
+						"app\\components\\timesheet\\weeklyTimesheetView.html"
+					],
+					[
+						"test",
+						"node_modules\\phantomjs\\test\\tests.js"
+					],
+					[
+						"ap",
+						"app\\app.module.js"
+					],
+					[
+						"app.mo",
+						"app\\app.module.js"
+					],
+					[
+						"modu",
+						"app\\app.module.js"
+					],
+					[
+						"task",
+						"app\\components\\task\\taskService.js"
+					],
+					[
+						"ut",
+						"app\\utility.js"
+					],
+					[
+						"",
+						"app\\components\\timesheet\\weeklyTimesheetView.html"
+					],
+					[
+						"app.route",
+						"app\\app.routes.js"
+					],
+					[
+						"projdet",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"projde",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"http",
+						"app\\shared\\httpbackend\\httpBackendController.js"
+					],
+					[
+						"addu",
+						"app\\components\\user\\adduser\\addUserView.html"
+					],
+					[
+						"userser",
+						"app\\components\\user\\userServices.js"
+					],
+					[
+						"pro",
+						"app\\components\\project\\read\\projectController.js"
+					],
+					[
+						"serv",
+						"app\\components\\task\\taskService.js"
+					],
+					[
+						"userv",
+						"app\\components\\user\\userView.html"
+					],
+					[
+						"use",
+						"app\\components\\user\\userController.js"
+					],
+					[
+						"sp",
+						"SpecRunner.html"
+					],
+					[
+						"spe",
+						"SpecRunner.html"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"app.",
+						"app\\app.module.js"
+					],
+					[
+						"prov",
+						"app\\components\\project\\read\\projectView.html"
+					],
+					[
+						"projecs",
+						"app\\components\\project\\projectService.js"
+					],
+					[
+						"proser",
+						"app\\components\\project\\projectService.js"
+					],
+					[
+						"provi",
+						"app\\components\\project\\read\\projectView.html"
+					],
+					[
+						"projc",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"addp",
+						"app\\components\\project\\create\\addProjectView.html"
+					],
+					[
+						"add",
+						"app\\components\\activity\\addactivity\\addActivityController.js"
+					],
+					[
+						"prode",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"det",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"rou",
+						"app\\app.routes.js"
+					],
+					[
+						"role",
+						"app\\components\\user\\role\\roleController.js"
+					],
+					[
+						"ro",
+						"app\\components\\user\\role\\role.html"
+					],
+					[
+						"prod",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"editta",
+						"app\\components\\task\\edittask\\editTaskController.js"
+					],
+					[
+						"adda",
+						"app\\components\\activity\\addactivity\\addActivityController.js"
+					],
+					[
+						"adac",
+						"app\\components\\activity\\addactivity\\addActivityController.js"
+					],
+					[
+						"addac",
+						"app\\components\\activity\\addactivity\\addActivityView.html"
+					],
+					[
+						"prd",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"acser",
+						"app\\components\\activity\\activityService.js"
+					],
+					[
+						"act",
+						"app\\components\\activity\\activityService.js"
+					],
+					[
+						"prose",
+						"app\\components\\project\\projectService.js"
+					],
+					[
+						"tasks",
+						"app\\components\\task\\taskService.js"
+					],
+					[
+						"rojed",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"edittas",
+						"app\\components\\task\\edittask\\editTaskController.js"
+					],
+					[
+						"addtask",
+						"app\\components\\task\\addtask\\addTaskController.js"
+					],
+					[
+						"acti",
+						"app\\components\\activity\\activityService.js"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"edi",
+						"app\\components\\project\\editproject\\editProjectController.js"
+					],
+					[
+						"edpc",
+						"app\\components\\project\\editproject\\editProjectController.js"
+					],
+					[
+						"editpro",
+						"app\\components\\project\\editproject\\editProjectView.html"
+					],
+					[
+						"editp",
+						"app\\components\\project\\editproject\\editProjectView.html"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"addpro",
+						"app\\components\\project\\addproject\\addProjectServices.js"
+					],
+					[
+						"uservi",
+						"app\\components\\user\\userView.html"
+					],
+					[
+						"indcss",
+						"assets\\css\\index.css"
+					],
+					[
+						"addtas",
+						"app\\components\\task\\addtask\\addTaskView.html"
+					],
+					[
+						"edithtml",
+						"app\\components\\project\\editproject\\editProjectView.html"
+					],
+					[
+						"comphtml",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"comphmt",
+						"app\\components\\user\\profile\\profileView.html"
+					],
+					[
+						"compo.htm",
+						"app\\components\\timesheet\\timesheet.html"
+					],
+					[
+						"navi",
+						"app\\shared\\navigation\\navigationAdmin.html"
+					],
+					[
+						"index.cs",
+						"assets\\css\\index.css"
+					],
+					[
+						"projd",
+						"app\\components\\project\\detail\\projectDetailController.js"
+					],
+					[
+						"home",
+						"app\\components\\home\\homeController.js"
+					],
+					[
+						"edivi",
+						"app\\components\\task\\edittask\\editTaskView.html"
+					],
+					[
+						"edit",
+						"app\\components\\project\\editproject\\editProjectController.js"
+					],
+					[
+						"n",
+						"app\\shared\\navigation\\navigationController.js"
+					],
+					[
+						"hom",
+						"app\\components\\home\\homeController.js"
+					],
+					[
+						"edittask",
+						"app\\components\\task\\edittask\\editTaskController.js"
+					],
+					[
+						"edittv",
+						"app\\components\\task\\edittask\\editTaskView.html"
+					],
+					[
+						"addt",
+						"app\\components\\task\\addtask\\addTaskView.html"
+					],
+					[
+						"editt",
+						"app\\components\\task\\edittask\\editTaskController.js"
+					],
+					[
+						"projec",
+						"app\\components\\project\\projectView.html"
+					],
+					[
+						"projecd",
+						"app\\components\\project\\detail\\projectDetailView.html"
+					],
+					[
+						"project",
+						"app\\components\\project\\projectController.js"
+					],
+					[
+						"cont",
+						"app\\components\\home\\homeController.js"
+					],
+					[
+						"addpco",
+						"app\\components\\addproject\\addProjectController.js"
+					],
+					[
+						"proj",
+						"app\\components\\project\\projectView.html"
+					],
+					[
+						"nav",
+						"app\\shared\\navigation\\navigationAdmin.html"
+					],
+					[
+						"proje",
+						"app\\components\\project\\projectView.html"
+					],
+					[
+						"app.ro",
+						"app\\app.routes.js"
+					],
+					[
+						"addta",
+						"app\\components\\addtask\\addTaskView.html"
+					],
+					[
+						"app.rout",
+						"app\\app.routes.js"
+					],
+					[
+						"projv",
+						"app\\components\\project\\projectView.html"
+					],
+					[
+						"addproj",
+						"app\\components\\addproject\\addProjectView.html"
+					],
+					[
+						"create",
+						"app\\components\\addproject\\addProjectController.js"
+					],
+					[
+						"view.html",
+						"app\\components\\addproject\\addProjectView.html"
+					],
+					[
+						"projco",
+						"app\\components\\project\\projectController.js"
+					],
+					[
+						"addpr",
+						"app\\components\\addproject\\addProjectController.js"
+					],
+					[
+						"projvi",
+						"app\\components\\project\\projectView.html"
+					],
+					[
+						"index.css",
+						"assets\\css\\index.css"
+					],
+					[
+						"na",
+						"app\\shared\\navigation\\navigationAdmin.html"
+					],
+					[
+						"ho",
+						"app\\components\\home\\homeController.js"
+					],
+					[
+						"ti",
+						"app\\components\\timesheet\\timesheet.html"
+					],
+					[
+						"bo",
+						"assets\\css\\bootstrap.css"
+					],
+					[
+						"boo",
+						"assets\\css\\bootstrap.css"
+					],
+					[
+						"rout",
+						"app\\app.routes.js"
+					],
+					[
+						"ha",
+						"views\\HandleRequest.html"
+					],
+					[
+						"dis",
+						"views\\displayUsers.html"
+					],
+					[
+						"vie",
 						"views\\viewRoom.html"
 					],
 					[
-						"viewroom",
-						"js\\controllers\\viewRoomCtrl.js"
+						"reque",
+						"js\\controllers\\bookingRequest.js"
+					],
+					[
+						"req",
+						"views\\BookingRequest.html"
 					]
 				],
 				"width": 0.0
@@ -2500,11 +3108,11 @@
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 236.0,
-			"status_bar_visible": false,
+			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 26,
+			"window_id": 41,
 			"workspace_name": ""
 		}
 	],

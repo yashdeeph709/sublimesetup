@@ -20,7 +20,7 @@
     ]
 
     // if true, run jslint on save.
-    ,"run_on_save" : true
+    ,"run_on_save" : false
 
     // a regex string to determine whether jslint
     // should be run on a file.
