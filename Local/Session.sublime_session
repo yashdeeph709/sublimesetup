@@ -32,7 +32,7 @@
 		"/D/assignment1",
 		"/C/Users/hinge_y/Desktop/assignment1"
 	],
-	"last_version": 3083,
+	"last_version": 3103,
 	"last_window_id": 41,
 	"log_indexing": false,
 	"settings":
@@ -1931,6 +1931,17 @@
 			},
 			"buffers":
 			[
+				{
+					"contents": "Package Control Messages\n========================\n\nMaterial Theme\n--------------\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.0.6 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ Add support to the new status bar switch panel button (bottom left) from dev biuld 3101\n    ➼ Fix tree highlight indicator to match current accent color\n  \n  🏮 COLOR SCHEME\n  \n    ➼ Fix ruby symbols color highlight\n    ➼ Fix html attributes color clitch in some cases\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.0.5 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ Fix tabs and sidebar heading height when use both small tabs and disabled tabs scrolling\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.0.4 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ Fix accent color for automplete popup and progress bar dialog (update popup)\n    ➼ Fix commet toggle for gulpfiles (thanks to @opjlmi)\n    ➼ Darker tab separator is now inverted and more visible\n    ➼ Revisited yellow accent to match yellow appbar\n  \n  🏮 COLOR SCHEME\n  \n    ➼ Add support.stype color highlight\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.0.2 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ Fix accent color for automplete popup and progress bar dialog (update popup)\n\n\nMaterial Theme - Appbar\n-----------------------\n\n  \n  Material Theme - Appbar Addon\n  https://github.com/equinusocio/material-theme-appbar\n  \n  \n  👉 Version 1.0.4 👈\n  ********************************************************************************\n  \n    ➼ Fix tabs and sidebar height when use small tabs and disabled tabs scrolling\n",
+					"settings":
+					{
+						"buffer_size": 2025,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -1939,10 +1950,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 50.0,
+				"height": 354.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"termi",
+						"Terminal: Open"
+					],
 					[
 						"inst",
 						"Package Control: Install Package"
@@ -1958,10 +1977,6 @@
 					[
 						"refres",
 						"Project: Refresh Folders"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"remov",
@@ -1982,10 +1997,6 @@
 					[
 						"jslint",
 						"JSLint"
-					],
-					[
-						"termi",
-						"Terminal: Open"
 					],
 					[
 						"install",
@@ -2132,7 +2143,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 454.0
+				"width": 382.0
 			},
 			"console":
 			{
@@ -2155,12 +2166,14 @@
 			[
 				"/D/repo_timesheet",
 				"/D/repo_timesheet/app",
-				"/D/repo_timesheet/app/components",
-				"/D/repo_timesheet/app/components/project",
-				"/D/repo_timesheet/app/components/project/create"
+				"/D/repo_timesheet/assets",
+				"/D/repo_timesheet/node_modules"
 			],
 			"file_history":
 			[
+				"/D/repo_timesheet/Shortcuts and more!",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 				"/D/repo_timesheet/app/components/timesheet/timesheet.module.js",
 				"/D/repo_timesheet/app/app.routes.js",
 				"/D/repo_timesheet/app/components/project/create/fileUpload.js",
@@ -2285,10 +2298,7 @@
 				"/D/repo_timesheet/home.html",
 				"/D/repo_timesheet/assets/css/bootstrap.css",
 				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.user-ca-bundle",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/service.sublime-snippet",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/angular.sublime-build",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/module.sublime-snippet",
-				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/filter.sublime-snippet"
+				"/C/Users/hinge_y/AppData/Roaming/Sublime Text 3/Packages/User/service.sublime-snippet"
 			],
 			"find":
 			{
@@ -2458,8 +2468,39 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2025,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										81,
+										81
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
